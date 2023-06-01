@@ -14,5 +14,5 @@ For example, if there are three records in the table with CITY values 'New York'
 there are 2 different city names: 'New York' and 'Bengalaru'. The query returns , because
 total number of records - number of unique city names = 3-2 = 1.
 
-Ans:
+Solution:
 select COUNT(CITY) - COUNT(distinct CITY) from station;
