@@ -13,4 +13,4 @@ The CITY table is described as follows:
 
 select *
 from city
-where POPULATION > 100000 and COUNTRYCODE = "USA"
+where POPULATION > 100000 and COUNTRYCODE = "USA";
