@@ -15,4 +15,5 @@ there are 2 different city names: 'New York' and 'Bengalaru'. The query returns 
 total number of records - number of unique city names = 3-2 = 1.
 
 Solution:
-select COUNT(CITY) - COUNT(distinct CITY) from station;
+select COUNT(CITY) - COUNT(DISTINCT CITY)
+from station;
