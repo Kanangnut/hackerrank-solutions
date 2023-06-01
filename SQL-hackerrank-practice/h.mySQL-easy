@@ -11,6 +11,7 @@ The STATION table is described as follows:
 +--------------+--------------+
 where LAT_N is the northern latitude and LONG_W is the western longitude.
 
+Solution:
 select distinct CITY
 from STATION
 where mod(ID,2)=0 order by CITY asc;
