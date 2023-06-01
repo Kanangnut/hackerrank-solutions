@@ -12,7 +12,7 @@ The STATION table is described as follows:
 +--------------+--------------+
 
 Solution:
-select distinct CITY
+select DISTINCT CITY
 from STATION
-where upper(SUBSTR(CITY,1,1)) not in ('A','E','I','O','U') and lower (SUBSTR(CITY,1,1)) not in ('a','e','i','o','u'); 
+where UPPER(SUBSTR(CITY,1,1)) not in ('A','E','I','O','U') and LOWER(SUBSTR(CITY,1,1)) not in ('a','e','i','o','u'); 
  
