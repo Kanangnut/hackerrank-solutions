@@ -10,5 +10,6 @@ The CITY table is described as follows:
 | POPULATION   | NUMBER       |
 +--------------+--------------+
 
+Solution:
 select *
 from CITY where ID = 1661;
