@@ -1,5 +1,3 @@
-[![Hackerrank](https://github.com/Kanangnut/hackerrank-solutions/assets/130201193/1cb4611c-aa7a-405a-976b-2b5a9edde409)](https://www.hackerrank.com/kanangnut_s?hr_r=1)
-
 My solutions to HackerRank practice, tutorials and interview preparation problems with Python3 and mySQL.
 
 HackerRank Badges | Liftlong learning
