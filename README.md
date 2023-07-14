@@ -6,3 +6,5 @@ HackerRank Badges | Liftlong learning
 
 I'm trying to update this repository more frequently and revamp everything here as well.
 Don't forget to leave feedback if you find this repo useful or any improvements.
+
+My Hacker Rank dashboard: https://www.hackerrank.com/dashboard
