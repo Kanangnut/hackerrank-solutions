@@ -2,7 +2,8 @@ My solutions to HackerRank practice, tutorials and interview preparation problem
 
 HackerRank Badges | Liftlong learning
 <br>
-![111](https://github.com/Kanangnut/hackerrank-solutions/assets/130201193/7fed0cb1-6a45-4b6d-b46d-04d221a92f7c)
+![222](https://github.com/Kanangnut/hackerrank-solutions/assets/130201193/e79c29c9-a34f-4cdd-bea8-431a0a90a83d)
+
 <br>
 
 I'm trying to practice and update this repository more frequently and revamp everything here as well.
